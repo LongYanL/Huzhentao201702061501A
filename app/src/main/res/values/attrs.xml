@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="GestureView">
+        <attr name="in_circle_radius" format="dimension" /><!--圆形内半径-->
+        <attr name="out_circle_radius" format="dimension" /><!--圆形外半径-->
+        <attr name="out_circle_color" format="color" /><!--圆形背景色-->
+        <attr name="text_name" format="string"></attr><!--设置文字-->
+        <attr name="text_size" format="dimension"></attr><!--设置文字大小-->
+    </declare-styleable>
+</resources>
